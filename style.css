@@ -58,11 +58,3 @@ p {
 .line{
    background-color: black; 
 }
-img{
-    transition: transform  .2s;
-    border: 10px solid #00FFFF ;
-}
-
-img.hover {
-    transform: scale(0.9);
-}
